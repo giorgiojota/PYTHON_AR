@@ -5,3 +5,8 @@
 print("Hola, este es mi primer script del curso AR")
 print("Aquí iré registrando mis avances")
 
+# Lección 1: Variables y tipos de datos
+nombre = "Giorgio"
+edad = 40
+print(f"Me llamo {nombre} y tengo {edad} años")
+
