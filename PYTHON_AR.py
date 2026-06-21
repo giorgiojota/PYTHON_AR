@@ -10,3 +10,6 @@ nombre = "Giorgio"
 edad = 40
 print(f"Me llamo {nombre} y tengo {edad} años")
 
+# Lección 2: Listas
+lenguajes = ["Python", "JavaScript", "Bash"]
+print(f"Estoy aprendiendo: {', '.join(lenguajes)}")
