@@ -264,7 +264,7 @@ print(f"Valor acumulado de los números ingresados que son pares: {acumulado_par
 #b) Imprimir dichos promedios (promedio de cada turno)#
 #c) Mostrar por pantalla un mensaje que indique cual de los tres turnos tiene un promedio de edades mayor.
 
-promedio_manana = 0
+""" promedio_manana = 0
 promedio_tarde = 0
 promedio_noche = 0
 suma_manana = 0
@@ -290,5 +290,4 @@ if promedio_manana > promedio_tarde and promedio_manana > promedio_noche:
 elif promedio_tarde > promedio_manana and promedio_tarde > promedio_noche:
     print("El turno tarde tiene el promedio de edades mayor.")
 elif promedio_noche > promedio_manana and promedio_noche > promedio_tarde:
-    print("El turno noche tiene el promedio de edades mayor.")
-    
+    print("El turno noche tiene el promedio de edades mayor.") """
