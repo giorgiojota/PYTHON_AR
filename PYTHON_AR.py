@@ -13,3 +13,9 @@ print(f"Me llamo {nombre} y tengo {edad} años")
 # Lección 2: Listas
 lenguajes = ["Python", "JavaScript", "Bash"]
 print(f"Estoy aprendiendo: {', '.join(lenguajes)}")
+
+# Lección 3: Funciones
+def saludar(nombre):
+    return f"Hola, {nombre}!"   
+print(saludar(nombre))
+
