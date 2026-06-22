@@ -291,3 +291,5 @@ elif promedio_tarde > promedio_manana and promedio_tarde > promedio_noche:
     print("El turno tarde tiene el promedio de edades mayor.")
 elif promedio_noche > promedio_manana and promedio_noche > promedio_tarde:
     print("El turno noche tiene el promedio de edades mayor.") """
+
+#Trabajo actualizado OK
