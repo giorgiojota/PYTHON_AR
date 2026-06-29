@@ -292,4 +292,4 @@ elif promedio_tarde > promedio_manana and promedio_tarde > promedio_noche:
 elif promedio_noche > promedio_manana and promedio_noche > promedio_tarde:
     print("El turno noche tiene el promedio de edades mayor.") """
 
-#Trabajo actualizado OK
+#Python_clase4 (EJECUCIÓN DE BUCLES) 
